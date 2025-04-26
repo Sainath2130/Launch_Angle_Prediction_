@@ -1,5 +1,5 @@
 # Launch_Angle_Prediction_
-This Python script creates an interactive web application that predicts baseball launch angles based on user-provided exit velocity and hit distance.
+Interactive web application that predicts baseball launch angles based on user-provided exit velocity and hit distance.
 
 ### Features
 
